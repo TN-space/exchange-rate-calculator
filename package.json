@@ -1,0 +1,23 @@
+{
+  "name": "exchange-rate-calculator",
+  "version": "1.0.0",
+  "description": "Exchange rate calculator mini project, using vanilla JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d exchange-rate-calculator"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TN-space/exchange-rate-calculator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TN-space/exchange-rate-calculator/issues"
+  },
+  "homepage": "https://TN-space.github.io/exchange-rate-calculator",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
